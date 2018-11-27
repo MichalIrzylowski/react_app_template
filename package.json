@@ -10,9 +10,6 @@
     "build": "./node_modules/.bin/webpack --mode production"
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
-    "mongoose": "^5.3.13",
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
   },
